@@ -1,4 +1,13 @@
 #In python there are different data types.
+
+#NUmeric types: integer, float, complex
+#Sequence types: string, list, tuple
+#Mapping type: dictionary
+#Set types: set, frozenset
+#Boolean type: bool
+#Binary types: bytes, bytearray, memoryview
+#None type: NoneType
+
 #The most common data types are:
 #1. Integers: whole numbers, positive or negative, without decimals, of unlimited length.
 num = 10
