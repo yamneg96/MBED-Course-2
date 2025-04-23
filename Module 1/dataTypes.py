@@ -22,13 +22,13 @@ print(type(str1)) # <class 'str'>
 bool1 = True
 print(type(bool1)) # <class 'bool'>
 #5. Lists: a collection of ordered and changeable values, allowing duplicate members.
-list1 = [1, 2, 3, 4, 5]
+list1 = [1, 2, "asss", 4, 5]
 print(type(list1)) # <class 'list'>
 #6. Tuples: a collection of ordered and unchangeable values, allowing duplicate members.
-tuple1 = (1, 2, 3, 4, 5)
+tuple1 = (1, 2, "as", 4, 5)
 print(type(tuple1)) # <class 'tuple'>
 #7. Sets: a collection of unordered and unindexed values, with no duplicate members.
-set1 = {1, 2, 3, 4, 5}
+set1 = {1, 2, 3, "aw", 5}
 print(type(set1)) # <class 'set'>
 #8. Dictionaries: a collection of unordered, changeable, and indexed values, with no duplicate members.
 dict1 = {"name": "John", "age": 30}
