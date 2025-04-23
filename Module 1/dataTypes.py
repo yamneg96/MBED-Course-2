@@ -21,7 +21,7 @@ print(type(str1)) # <class 'str'>
 print(str1[0]) # H
 print(str1[0:5]) # Hello
 print(str1[0:5:2]) # Hlo
-print(length(str1)) # 13
+print(len(str1)) # 13 To find the length we used the len() function.
 #4. Booleans: a data type with only two possible values: True or False.
 bool1 = True
 print(type(bool1)) # <class 'bool'>
