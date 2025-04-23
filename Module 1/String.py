@@ -2,6 +2,7 @@
 one1 = "this is a single line"
 two2 = "this is a multiple" \
       "line string"
+#Multiline string with backslash.
 
 print(one1)
 print(two2)

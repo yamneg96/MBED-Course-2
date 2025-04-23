@@ -18,6 +18,10 @@ print(type(num)) # <class 'float'>
 #3. Strings: a sequence of characters enclosed in single or double quotes.
 str1 = "Hello, World!"
 print(type(str1)) # <class 'str'>
+print(str1[0]) # H
+print(str1[0:5]) # Hello
+print(str1[0:5:2]) # Hlo
+print(length(str1)) # 13
 #4. Booleans: a data type with only two possible values: True or False.
 bool1 = True
 print(type(bool1)) # <class 'bool'>
