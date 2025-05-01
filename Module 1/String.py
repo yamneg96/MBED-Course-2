@@ -13,6 +13,6 @@ N_name = "Negash"
 print(F_name + " " + N_name)
 
 
-print("Where do you live?")
-location = input()
-print("So you live in " + location)
+# print("Where do you live?")
+# location = input()
+# print("So you live in " + location)
